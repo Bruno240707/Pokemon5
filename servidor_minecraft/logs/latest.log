@@ -1,0 +1,316 @@
+[00:00:49] [Server thread/INFO]: Nothing changed. The player is not an operator
+[00:01:35] [Server thread/WARN]: Entity PokemonEntity['Slowking'/180960, l='ServerLevel[world]', x=15487.50, y=147.00, z=3079.50, removed=KILLED] wasn't found in section class_4076{x=967, y=9, z=192} (destroying due to DISCARDED)
+[00:02:09] [Server thread/WARN]: Entity PokemonEntity['Metagross'/181301, l='ServerLevel[world]', x=15483.50, y=142.60, z=3079.50, removed=KILLED] wasn't found in section class_4076{x=967, y=8, z=192} (destroying due to DISCARDED)
+[00:02:27] [Server thread/WARN]: Entity PokemonEntity['Zapdos'/181407, l='ServerLevel[world]', x=15488.50, y=146.63, z=3077.50, removed=KILLED] wasn't found in section class_4076{x=968, y=9, z=192} (destroying due to DISCARDED)
+[00:03:28] [Server thread/WARN]: Entity PokemonEntity['Slowking'/181436, l='ServerLevel[world]', x=15487.50, y=147.00, z=3079.50, removed=DISCARDED] wasn't found in section class_4076{x=967, y=9, z=192} (destroying due to DISCARDED)
+[00:04:07] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/181650, l='ServerLevel[world]', x=930.12, y=109.00, z=-5951.80, removed=DISCARDED] wasn't found in section class_4076{x=58, y=6, z=-372} (destroying due to DISCARDED)
+[00:04:11] [Server thread/INFO]: chucho112233 lost connection: Disconnected
+[00:04:11] [Server thread/INFO]: chucho112233 left the game
+[00:04:11] [Server thread/INFO]: Unregistered trainer player: chucho112233
+[00:05:44] [Server thread/INFO]: The difficulty has been set to Easy
+[00:05:48] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/182134, l='ServerLevel[world]', x=916.43, y=89.00, z=-5915.44, removed=DISCARDED] wasn't found in section class_4076{x=57, y=5, z=-370} (destroying due to DISCARDED)
+[00:06:12] [Server thread/WARN]: Bruno240707 moved wrongly!
+[00:07:35] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/183061, l='ServerLevel[world]', x=-286.00, y=31.00, z=-356.00] as it would cause deadlock
+[00:07:35] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/183064, l='ServerLevel[world]', x=-286.00, y=31.00, z=-356.00] as it would cause deadlock
+[00:07:53] [Server thread/WARN]: Bruno240707 moved wrongly!
+[00:08:38] [Server thread/INFO]: Bruno240707 has made the advancement [Oh Shiny]
+[00:10:11] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/183014, l='ServerLevel[world]', x=-268.41, y=67.00, z=-507.25, removed=DISCARDED] wasn't found in section class_4076{x=-17, y=4, z=-32} (destroying due to DISCARDED)
+[00:12:22] [Server thread/INFO]: The difficulty has been set to Peaceful
+[00:17:56] [Server thread/INFO]: Made Bruno240707 no longer a server operator
+[00:21:48] [Server thread/WARN]: Entity PokemonEntity['Rayquaza'/185547, l='ServerLevel[world]', x=2199.50, y=-26.00, z=-10068.50, removed=KILLED] wasn't found in section class_4076{x=137, y=-2, z=-630} (destroying due to DISCARDED)
+[00:22:15] [Server thread/WARN]: Entity PokemonEntity['Calyrex'/185549, l='ServerLevel[world]', x=2194.21, y=-26.00, z=-10068.05, removed=KILLED] wasn't found in section class_4076{x=137, y=-2, z=-630} (destroying due to DISCARDED)
+[00:22:52] [Server thread/WARN]: Entity PokemonEntity['Melmetal'/185593, l='ServerLevel[world]', x=2199.50, y=-26.00, z=-10068.50, removed=KILLED] wasn't found in section class_4076{x=137, y=-2, z=-630} (destroying due to DISCARDED)
+[00:23:41] [Server thread/WARN]: Entity PokemonEntity['Tyranitar'/185672, l='ServerLevel[world]', x=2199.50, y=-26.00, z=-10068.50, removed=KILLED] wasn't found in section class_4076{x=137, y=-2, z=-630} (destroying due to DISCARDED)
+[00:24:35] [Server thread/WARN]: Entity PokemonEntity['Type: Null'/185743, l='ServerLevel[world]', x=2199.50, y=-26.00, z=-10068.50, removed=KILLED] wasn't found in section class_4076{x=137, y=-2, z=-630} (destroying due to DISCARDED)
+[00:25:25] [Server thread/WARN]: Entity PokemonEntity['Articuno'/185634, l='ServerLevel[world]', x=2194.21, y=-26.00, z=-10068.05, removed=KILLED] wasn't found in section class_4076{x=137, y=-2, z=-630} (destroying due to DISCARDED)
+[00:25:30] [Server thread/WARN]: Entity PokemonEntity['Calyrex'/185776, l='ServerLevel[world]', x=2199.06, y=-26.00, z=-10068.92, removed=DISCARDED] wasn't found in section class_4076{x=137, y=-2, z=-630} (destroying due to DISCARDED)
+[00:29:07] [Worker-Main-1/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 10.68680025028334,0.14257666748017073,0.40818672642080855
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 11.57704116028981,0.1537181893363595,0.45034636846685316
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 12.467236388585661,0.16474656108766794,0.4934870134452467
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 13.357387186733831,0.17566699720919132,0.5375612786083366
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 14.247494393821398,0.18648424930870533,0.5825269127635693
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 15.137560018867589,0.19720452558249235,0.6283298009184364
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 16.027584751502218,0.20783169567584991,0.6749361900383519
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 16.917570979618176,0.2183728227391839,0.7222850088614905
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! -13.349979626647837,-0.1587038366124034,-0.7051287772492287
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! -13.349979626647837,-0.1587038366124034,-0.7051287772492287
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! -13.349979626647837,-0.1587038366124034,-0.7051287772492287
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! -13.349979626647837,-0.1587038366124034,-0.7051287772492287
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! -13.349979626647837,-0.1587038366124034,-0.7051287772492287
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! -13.349979626647837,-0.1587038366124034,-0.7051287772492287
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! -13.349979626647837,-0.1587038366124034,-0.7051287772492287
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! -13.349979626647837,-0.1587038366124034,-0.7051287772492287
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! -12.460260777445,-0.14872918464243412,-0.6528946624530363
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! -11.57057102347244,-0.13881292194128036,-0.6001572443246914
+[00:29:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! -10.680908453216034,-0.12895016930997372,-0.5469586070425976
+[00:30:14] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/186261, l='ServerLevel[world]', x=15512.67, y=150.00, z=3097.29, removed=DISCARDED] wasn't found in section class_4076{x=969, y=9, z=193} (destroying due to DISCARDED)
+[00:32:07] [Server thread/WARN]: Entity PokemonEntity['Calyrex'/190184, l='ServerLevel[world]', x=15492.20, y=142.00, z=3078.83, removed=DISCARDED] wasn't found in section class_4076{x=968, y=8, z=192} (destroying due to DISCARDED)
+[00:33:03] [Server thread/WARN]: Entity PokemonEntity['Calyrex'/190280, l='ServerLevel[world]', x=15489.02, y=146.00, z=3082.02, removed=DISCARDED] wasn't found in section class_4076{x=968, y=9, z=192} (destroying due to DISCARDED)
+[00:33:44] [Server thread/WARN]: Entity PokemonEntity['Tyranitar'/190342, l='ServerLevel[world]', x=15487.49, y=147.00, z=3085.60, removed=KILLED] wasn't found in section class_4076{x=967, y=9, z=192} (destroying due to DISCARDED)
+[00:34:51] [Server thread/INFO]: chucho112233[/127.222.93.67:51457] logged in with entity id 190443 at (15495.683339006197, 150.0, 3077.2917223259496)
+[00:34:51] [Server thread/INFO]: Sending server config values to client
+[00:34:51] [Server thread/INFO]: chucho112233 joined the game
+[00:34:51] [Server thread/INFO]: Registered trainer player: chucho112233
+[00:34:51] [Server thread/INFO]: Channel update: chucho112233 -> default
+[00:34:51] [Server thread/INFO]: Receiving client config
+[00:34:51] [Server thread/INFO]: [FANCYMENU] A client with FancyMenu installed joined the server: chucho112233
+[00:35:06] [Server thread/WARN]: Entity PokemonEntity['Melmetal'/190405, l='ServerLevel[world]', x=15488.56, y=146.00, z=3081.44, removed=DISCARDED] wasn't found in section class_4076{x=968, y=9, z=192} (destroying due to DISCARDED)
+[00:35:29] [Server thread/WARN]: Entity PokemonEntity['Rayquaza'/190454, l='ServerLevel[world]', x=15488.50, y=147.00, z=3086.50, removed=KILLED] wasn't found in section class_4076{x=968, y=9, z=192} (destroying due to DISCARDED)
+[00:35:44] [Server thread/WARN]: Entity PokemonEntity['Articuno'/190516, l='ServerLevel[world]', x=15488.59, y=146.63, z=3081.40, removed=KILLED] wasn't found in section class_4076{x=968, y=9, z=192} (destroying due to DISCARDED)
+[00:37:01] [Server thread/WARN]: Entity PokemonEntity['Calyrex'/190530, l='ServerLevel[world]', x=15488.02, y=146.00, z=3085.01, removed=DISCARDED] wasn't found in section class_4076{x=968, y=9, z=192} (destroying due to DISCARDED)
+[00:37:20] [Server thread/WARN]: Entity PokemonEntity['Metagross'/190656, l='ServerLevel[world]', x=15493.38, y=170.00, z=3081.83, removed=DISCARDED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:37:35] [Server thread/WARN]: Entity PokemonEntity['Flutter Mane'/190729, l='ServerLevel[world]', x=15494.48, y=170.00, z=3081.11, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:37:47] [Server thread/WARN]: Entity PokemonEntity['Slowking'/190760, l='ServerLevel[world]', x=15494.52, y=170.00, z=3081.60, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:37:58] [Server thread/WARN]: Entity PokemonEntity['Dragapult'/190776, l='ServerLevel[world]', x=15494.52, y=170.00, z=3081.60, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:38:27] [Server thread/WARN]: Entity PokemonEntity['Zapdos'/190792, l='ServerLevel[world]', x=15493.50, y=170.00, z=3081.50, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:38:50] [Server thread/WARN]: Entity PokemonEntity['Metagross'/190817, l='ServerLevel[world]', x=15493.83, y=170.00, z=3081.83, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:39:10] [Server thread/WARN]: Entity PokemonEntity['Moltres'/190843, l='ServerLevel[world]', x=15492.85, y=170.00, z=3081.49, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:40:55] [Server thread/WARN]: Entity PokemonEntity['Calyrex'/190857, l='ServerLevel[world]', x=15491.50, y=170.00, z=3077.50, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:42:19] [Server thread/WARN]: Entity PokemonEntity['Tyranitar'/190968, l='ServerLevel[world]', x=15491.50, y=170.00, z=3078.02, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:42:34] [Server thread/WARN]: Entity PokemonEntity['Zapdos'/191065, l='ServerLevel[world]', x=15493.50, y=138.00, z=3086.50, removed=DISCARDED] wasn't found in section class_4076{x=968, y=8, z=192} (destroying due to DISCARDED)
+[00:44:35] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/191057, l='ServerLevel[world]', x=15491.50, y=170.00, z=3077.50, removed=DISCARDED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:45:05] [Server thread/WARN]: Entity PokemonEntity['Articuno'/191203, l='ServerLevel[world]', x=15490.06, y=170.00, z=3077.56, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:46:24] [Server thread/WARN]: Entity PokemonEntity['Melmetal'/191236, l='ServerLevel[world]', x=15489.55, y=170.00, z=3077.50, removed=DISCARDED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:47:03] [Server thread/WARN]: Entity PokemonEntity['Calyrex'/191367, l='ServerLevel[world]', x=15494.50, y=166.00, z=3080.50, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:47:53] [Server thread/WARN]: Entity PokemonEntity['Metagross'/191440, l='ServerLevel[world]', x=15493.50, y=170.00, z=3081.50, removed=DISCARDED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:48:07] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/191377, l='ServerLevel[world]', x=15493.18, y=166.06, z=3081.17, removed=DISCARDED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:48:21] [Server thread/WARN]: Entity PokemonEntity['Moltres'/191457, l='ServerLevel[world]', x=15493.50, y=170.00, z=3081.50, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:48:34] [Server thread/WARN]: Entity PokemonEntity['Flutter Mane'/191473, l='ServerLevel[world]', x=15494.58, y=170.00, z=3080.85, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:49:06] [Server thread/WARN]: Entity PokemonEntity['Zapdos'/191482, l='ServerLevel[world]', x=15493.50, y=170.00, z=3081.50, removed=DISCARDED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:49:20] [Server thread/WARN]: Entity PokemonEntity['Slowking'/191506, l='ServerLevel[world]', x=15494.99, y=170.00, z=3081.31, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:49:36] [Server thread/WARN]: Entity PokemonEntity['Dragapult'/191523, l='ServerLevel[world]', x=15494.66, y=170.00, z=3081.35, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:49:39] [Server thread/WARN]: Entity PokemonEntity['Articuno'/191459, l='ServerLevel[world]', x=15493.29, y=167.00, z=3081.52, removed=DISCARDED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:49:48] [Server thread/WARN]: Entity PokemonEntity['Metagross'/191540, l='ServerLevel[world]', x=15493.50, y=170.00, z=3081.50, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:49:50] [Server thread/WARN]: Entity PokemonEntity['Tyranitar'/191542, l='ServerLevel[world]', x=15493.50, y=167.00, z=3081.50, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:50:00] [Server thread/WARN]: Entity PokemonEntity['Zapdos'/191552, l='ServerLevel[world]', x=15493.50, y=170.00, z=3081.50, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:50:56] [Server thread/WARN]: Entity PokemonEntity['Rayquaza'/191561, l='ServerLevel[world]', x=15493.50, y=166.00, z=3086.50, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:51:19] [Server thread/WARN]: Entity PokemonEntity['Melmetal'/191626, l='ServerLevel[world]', x=15493.50, y=167.00, z=3081.50, removed=DISCARDED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:51:28] [Server thread/WARN]: Entity PokemonEntity['Articuno'/191645, l='ServerLevel[world]', x=15493.50, y=167.00, z=3081.50, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:52:30] [Server thread/WARN]: Entity PokemonEntity['Slowking'/191695, l='ServerLevel[world]', x=15495.08, y=170.00, z=3080.20, removed=DISCARDED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:52:57] [Server thread/WARN]: Entity PokemonEntity['Moltres'/191713, l='ServerLevel[world]', x=15494.50, y=170.00, z=3080.50, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:53:06] [Server thread/WARN]: Entity PokemonEntity['Slowking'/191754, l='ServerLevel[world]', x=15495.08, y=170.00, z=3080.20, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:53:16] [Server thread/WARN]: Entity PokemonEntity['Dragapult'/191760, l='ServerLevel[world]', x=15495.08, y=170.00, z=3080.20, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:53:27] [Server thread/WARN]: Entity PokemonEntity['Flutter Mane'/191767, l='ServerLevel[world]', x=15494.85, y=170.00, z=3079.76, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:53:28] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/191656, l='ServerLevel[world]', x=15493.66, y=166.06, z=3081.16, removed=DISCARDED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:54:03] [Server thread/WARN]: Entity PokemonEntity['Zapdos'/191781, l='ServerLevel[world]', x=15494.50, y=170.00, z=3080.50, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:54:36] [Server thread/WARN]: Entity PokemonEntity['Melmetal'/191776, l='ServerLevel[world]', x=15493.50, y=166.00, z=3086.50, removed=DISCARDED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:54:51] [Server thread/WARN]: Entity PokemonEntity['Metagross'/191803, l='ServerLevel[world]', x=15493.50, y=170.00, z=3081.50, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:55:16] [Server thread/WARN]: Entity PokemonEntity['Calyrex'/191836, l='ServerLevel[world]', x=15493.21, y=170.00, z=3081.83, removed=DISCARDED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:55:34] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/191868, l='ServerLevel[world]', x=15493.14, y=166.06, z=3081.17, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:55:36] [Server thread/WARN]: Entity PokemonEntity['Slowking'/191845, l='ServerLevel[world]', x=15495.52, y=170.00, z=3079.82, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:55:56] [Server thread/WARN]: Entity PokemonEntity['Calyrex'/191902, l='ServerLevel[world]', x=15493.50, y=170.00, z=3081.50, removed=DISCARDED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:56:08] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/191914, l='ServerLevel[world]', x=15493.14, y=166.06, z=3081.17, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:56:25] [Server thread/WARN]: Entity PokemonEntity['Metagross'/191898, l='ServerLevel[world]', x=15494.83, y=170.00, z=3079.34, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:57:50] [Server thread/WARN]: Entity PokemonEntity['Zapdos'/192025, l='ServerLevel[world]', x=15495.15, y=170.00, z=3081.15, removed=DISCARDED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:58:01] [Server thread/WARN]: Entity PokemonEntity['Calyrex'/191931, l='ServerLevel[world]', x=15492.33, y=170.00, z=3080.42, removed=DISCARDED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:58:05] [Server thread/WARN]: Entity PokemonEntity['Slowking'/192051, l='ServerLevel[world]', x=15495.52, y=170.00, z=3080.09, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:58:20] [Server thread/WARN]: Entity PokemonEntity['Dragapult'/192081, l='ServerLevel[world]', x=15494.37, y=170.00, z=3080.35, removed=KILLED] wasn't found in section class_4076{x=968, y=10, z=192} (destroying due to DISCARDED)
+[00:58:50] [Server thread/WARN]: Entity PokemonEntity['Flutter Mane'/192096, l='ServerLevel[world]', x=15494.50, y=150.00, z=3080.50, removed=DISCARDED] wasn't found in section class_4076{x=968, y=9, z=192} (destroying due to DISCARDED)
+[00:59:04] [Server thread/WARN]: Entity PokemonEntity['Calyrex'/192158, l='ServerLevel[world]', x=15480.95, y=132.00, z=3078.26, removed=DISCARDED] wasn't found in section class_4076{x=967, y=8, z=192} (destroying due to DISCARDED)
+[00:59:46] [Server thread/WARN]: Entity PokemonEntity['Flutter Mane'/192156, l='ServerLevel[world]', x=15452.90, y=127.00, z=3083.96, removed=DISCARDED] wasn't found in section class_4076{x=965, y=7, z=192} (destroying due to DISCARDED)
+[00:59:54] [Server thread/WARN]: Entity PokemonEntity['Flutter Mane'/192492, l='ServerLevel[world]', x=15446.69, y=127.00, z=3090.41, removed=DISCARDED] wasn't found in section class_4076{x=965, y=7, z=193} (destroying due to DISCARDED)
+[00:59:59] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[01:00:55] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/192163, l='ServerLevel[world]', x=14786.38, y=94.50, z=3285.84, removed=DISCARDED] wasn't found in section class_4076{x=924, y=5, z=205} (destroying due to DISCARDED)
+[01:01:37] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/193194, l='ServerLevel[world]', x=14824.60, y=95.00, z=3268.37, removed=DISCARDED] wasn't found in section class_4076{x=926, y=5, z=204} (destroying due to DISCARDED)
+[01:01:42] [Server thread/WARN]: Entity PokemonEntity['Flutter Mane'/193700, l='ServerLevel[world]', x=15408.62, y=115.00, z=3119.98, removed=DISCARDED] wasn't found in section class_4076{x=963, y=7, z=194} (destroying due to DISCARDED)
+[01:04:24] [Server thread/WARN]: Entity PokemonEntity['Dragapult'/194112, l='ServerLevel[world]', x=15402.58, y=115.00, z=3118.61, removed=DISCARDED] wasn't found in section class_4076{x=962, y=7, z=194} (destroying due to DISCARDED)
+[01:05:00] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 0.9112228479516489,1.655397579073906,9.867635212624009
+[01:05:00] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 1.1919662967720797,1.7916753590106964,10.387146817377925
+[01:05:00] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 1.5041348991053383,1.9486766755580902,10.890194757775134
+[01:05:03] [Server thread/WARN]: chucho112233 moved wrongly!
+[01:05:05] [Server thread/WARN]: Tried to load a block entity for block Block{cobblemon:pc}[on=false,natural=false,waterlogged=false,facing=north,part=top] but failed at location class_2338{x=14919, y=66, z=3564}
+[01:05:20] [Server thread/WARN]: Entity PokemonEntity['Dragapult'/194190, l='ServerLevel[world]', x=15071.54, y=104.00, z=3359.27, removed=DISCARDED] wasn't found in section class_4076{x=941, y=6, z=209} (destroying due to DISCARDED)
+[01:05:28] [Server thread/INFO]: [Not Secure] <chucho112233> me escuchas?
+[01:05:59] [Server thread/WARN]: Entity PokemonEntity['Dragapult'/194778, l='ServerLevel[world]', x=14995.03, y=76.00, z=3365.52, removed=DISCARDED] wasn't found in section class_4076{x=937, y=4, z=210} (destroying due to DISCARDED)
+[01:07:36] [Server thread/INFO]: No battle could be found with the id: 5452060b-4b04-4eda-bdd8-70eb31942a31
+[01:07:36] [Server thread/INFO]: No battle could be found with the id: 5452060b-4b04-4eda-bdd8-70eb31942a31
+[01:10:18] [Server thread/WARN]: Entity PokemonEntity['Slowking'/194968, l='ServerLevel[world]', x=15015.78, y=75.00, z=3372.78, removed=DISCARDED] wasn't found in section class_4076{x=938, y=4, z=210} (destroying due to DISCARDED)
+[01:10:38] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[01:10:58] [Server thread/WARN]: Entity PokemonEntity['Dragapult'/195860, l='ServerLevel[world]', x=15158.56, y=72.00, z=3563.81, removed=DISCARDED] wasn't found in section class_4076{x=947, y=4, z=222} (destroying due to DISCARDED)
+[01:12:06] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[01:12:06] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[01:12:06] [Server thread/WARN]: Entity PokemonEntity['Dragapult'/196523, l='ServerLevel[world]', x=15162.31, y=75.56, z=3580.50, removed=DISCARDED] wasn't found in section class_4076{x=947, y=4, z=223} (destroying due to DISCARDED)
+[01:12:10] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[01:14:14] [Server thread/INFO]: Bruno240707 lost connection: Disconnected
+[01:14:14] [Server thread/INFO]: Bruno240707 left the game
+[01:14:14] [Server thread/INFO]: Unregistered trainer player: Bruno240707
+[01:14:20] [Server thread/INFO]: Bruno240707[/127.19.211.102:37409] logged in with entity id 197403 at (14827.013921577623, 88.0, 3267.1665421866996)
+[01:14:20] [Server thread/INFO]: Sending server config values to client
+[01:14:20] [Server thread/INFO]: Bruno240707 joined the game
+[01:14:20] [Server thread/INFO]: Registered trainer player: Bruno240707
+[01:14:20] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 7.219495715522498,-0.13667623698711395,7.940815436759294
+[01:14:20] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 7.911552569134074,-0.2685801833868027,8.769090989098459
+[01:14:20] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 8.589855391221136,-0.4105316996574402,9.59480464833132
+[01:14:20] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 9.250182067760761,-0.5636690258979797,10.41704505055668
+[01:14:20] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 9.912643298008334,-0.7321618944406509,11.262705139311038
+[01:14:20] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 10.55978596334353,-0.9082040190696716,12.106664793103391
+[01:14:20] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 11.186498915754783,-1.0928010642528534,12.948520784567336
+[01:14:20] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 11.816082303927033,-1.2881464809179306,13.81330741946931
+[01:14:21] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! -6.489613585663392,1.671101190149784,-8.404063376843624
+[01:14:21] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! -6.489613585663392,1.671101190149784,-8.404063376843624
+[01:14:21] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! -6.489613585663392,1.671101190149784,-8.404063376843624
+[01:14:21] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! -6.489613585663392,1.671101190149784,-8.404063376843624
+[01:14:21] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! -6.489613585663392,1.671101190149784,-8.404063376843624
+[01:14:21] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! -6.489613585663392,1.671101190149784,-8.404063376843624
+[01:14:21] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! -6.489613585663392,1.671101190149784,-8.404063376843624
+[01:14:21] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! -6.489613585663392,1.671101190149784,-8.404063376843624
+[01:14:21] [Server thread/INFO]: Channel update: Bruno240707 -> default
+[01:14:21] [Server thread/INFO]: Receiving client config
+[01:14:21] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[01:14:22] [Server thread/INFO]: [FANCYMENU] A client with FancyMenu installed joined the server: Bruno240707
+[01:14:29] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[01:14:29] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[01:14:42] [Server thread/INFO]: No battle could be found with the id: f9ffbdf9-523d-4685-b3ef-d553db73e9aa
+[01:14:42] [Server thread/INFO]: No battle could be found with the id: f9ffbdf9-523d-4685-b3ef-d553db73e9aa
+[01:14:45] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[01:14:45] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[01:14:46] [Server thread/WARN]: Entity PokemonEntity['Dragapult'/196548, l='ServerLevel[world]', x=15336.45, y=64.00, z=3776.42, removed=DISCARDED] wasn't found in section class_4076{x=958, y=4, z=236} (destroying due to DISCARDED)
+[01:14:59] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[01:14:59] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[01:15:13] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[01:15:41] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[01:15:53] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[01:15:53] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[01:15:57] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[01:15:57] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[01:16:15] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[01:16:15] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[01:16:17] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 10.059131811081897,1.0046421065926552,0.6331066671391454
+[01:16:17] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 10.777641226159176,1.076402135193348,0.6783285719347987
+[01:16:17] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 11.496150641236454,1.14816215634346,0.7235504767304519
+[01:16:17] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 12.214660056313733,1.2199221774935722,0.7687723815261052
+[01:16:17] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 12.933169471391011,1.2916821986436844,0.8139942863217584
+[01:16:17] [Server thread/WARN]: Dragapult (vehicle of chucho112233) moved too quickly! 13.65167888646829,1.3634422197937965,0.8592161911174117
+[01:16:30] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[01:16:36] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[01:16:36] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[01:16:37] [Worker-Main-2/ERROR]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: mega_showdown:spookyplate'
+[01:16:39] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[01:16:41] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[01:16:45] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[01:16:45] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[01:16:49] [Worker-Main-2/WARN]: Empty or non-existent pool: minecraft:
+[01:16:50] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[01:16:50] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[01:17:08] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[01:17:08] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 10.571503529297843,-0.5187847018241882,-0.3217824979974466
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 11.452298622449234,-0.5658553913235664,-0.3476246253821955
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 12.33307542210423,-0.6133219934999943,-0.37336673631943995
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 13.213837475384935,-0.6611019857227802,-0.399029710337345
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 14.094588144180307,-0.709124781191349,-0.42463139029496233
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 14.975325797069672,-0.757422674447298,-0.45016364497087125
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 15.856052894034292,-0.8059435151517391,-0.4756396530424354
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 16.736771527139354,-0.8546384386718273,-0.501071752977623
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 17.617481303606837,-0.9035165421664715,-0.5264576564350136
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 18.49818321226121,-0.9525579400360584,-0.5518023879840257
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 19.378877889890646,-1.0017480291426182,-0.5771096332568959
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 20.25956744152063,-1.0510456077754498,-0.6023897844934254
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 21.140251149128744,-1.1004633344709873,-0.6276396546290925
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 22.02092990955134,-1.1499822661280632,-0.6528640232900216
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 22.901604140020936,-1.199593685567379,-0.6780650883979433
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 23.782274436583975,-1.249284766614437,-0.7032460816421917
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 24.6629417663371,-1.2990353740751743,-0.7284120791141504
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 25.543609096090222,-1.3487859815359116,-0.7535780765861091
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 26.42426975012313,-1.3986716717481613,-0.7787100472564816
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 27.304927721947024,-1.4486113861203194,-0.8038284131666842
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 28.185583071166548,-1.498604517430067,-0.8289333251909738
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 29.06623651303744,-1.5486351177096367,-0.8540288029175827
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 29.946887630327183,-1.5987119302153587,-0.8791126428372991
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 30.827537048695376,-1.6488247700035572,-0.9041874106555952
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 31.708182771575594,-1.6990117654204369,-0.9292435073180059
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 32.588823785688874,-1.7492933459579945,-0.954275788198629
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 33.469460567870556,-1.7996594235301018,-0.9792867939459029
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 34.35009323780105,-1.8501086607575417,-1.004276858157482
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 35.230721616197116,-1.90064300224185,-1.029245494499719
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 36.1113469547563,-1.9512376524508,-1.0541989446969637
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 36.99196889585073,-2.0019012205302715,-1.079135042492453
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 37.87259304231702,-2.0525210797786713,-1.1040821447950293
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 38.75322153992238,-2.103053957223892,-1.1290511462157156
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 39.633854627085384,-2.1534963697195053,-1.1540429203355416
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 40.51449111124384,-2.2038719430565834,-1.179051525133218
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 41.395130635241,-2.2541851475834846,-1.2040758320299574
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 42.27577337788898,-2.3044343814253807,-1.2291162414944665
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 43.156418445118106,-2.3546367660164833,-1.2541684452285153
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 44.03706524088193,-2.404804691672325,-1.279229325164124
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 44.917371813982754,-2.461310774087906,-1.3026990686566933
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 45.79611567281245,-2.539891503751278,-1.3205136633387156
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 46.67220919263127,-2.6449152156710625,-1.3311534418348856
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 47.5443247649564,-2.779424227774143,-1.3332495151189505
+[01:17:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2655ms or 53 ticks behind
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 38.72216867237694,-2.463242579251528,-1.0329294596681393
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 39.587103094183476,-2.637764547020197,-1.0224793755182873
+[01:17:22] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 40.44758254577937,-2.8325829841196537,-1.005236671017883
+[01:17:25] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 10.492857940042086,-1.30642768740654,-0.2874634900344972
+[01:17:25] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 11.371124353863706,-1.3730163425207138,-0.34116929909396276
+[01:17:25] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 12.249324930653529,-1.4380681812763214,-0.39775460275768637
+[01:17:25] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 13.127442264789352,-1.5021371096372604,-0.45669802788415836
+[01:17:25] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 14.005460469077661,-1.56552205234766,-0.5178170593162577
+[01:17:25] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 14.883354776264241,-1.6284121721982956,-0.5811876614525318
+[01:17:29] [Worker-Main-1/WARN]: Empty or non-existent pool: minecraft:
+[01:17:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 4.286515574765872,3.6968623101711273,-8.949055400099951
+[01:17:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 4.642599129449081,4.00514429807663,-9.695263018475544
+[01:17:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 4.998675501774414,4.3134050369262695,-10.441482378965702
+[01:17:29] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 5.354745883832948,4.621644526720047,-11.187713183547203
+[01:17:30] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 4.9208475230025215,3.421535909175873,-8.706901464167913
+[01:17:48] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 3.7656303927888075,-4.911607265472412,-8.761472213015622
+[01:17:48] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 4.201911488613405,-5.309796929359436,-9.66556549879715
+[01:17:48] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 4.643051955325063,-5.692055106163025,-10.561302955451083
+[01:17:48] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 5.101164373969368,-6.063050955533981,-11.466165299700606
+[01:17:48] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 5.566818485685872,-6.416191935539246,-12.361447104401122
+[01:17:48] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 6.046892383033992,-6.761716395616531,-13.2650082164987
+[01:17:48] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 6.537042607276817,-7.087057799100876,-14.157743901936556
+[01:17:48] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 7.0426924635230534,-7.404655575752258,-15.05759389781042
+[01:17:48] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 7.556159978877986,-7.706005424261093,-15.945631340178352
+[01:17:48] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 8.074945958846001,-7.992633193731308,-16.822444379356057
+[01:17:48] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 8.586072396657983,-8.252020806074142,-17.661853577280908
+[01:17:48] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 5.738141658508539,-3.9916001707315445,-10.597491276944766
+[01:17:48] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 6.227535992709818,-4.207469269633293,-11.36745894784599
+[01:17:48] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 6.705715972353573,-4.404124319553375,-12.104610254711588
+[01:17:52] [Server thread/ERROR]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: mega_showdown:spookyplate'
+[01:18:19] [Server thread/ERROR]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: mega_showdown:normalium-z'
+[01:18:21] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 0.36480525250044593,4.809332489967346,-9.602511235900238
+[01:18:21] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 0.4014053283663088,5.292631655931473,-10.567615702012517
+[01:18:21] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 0.43762966772555956,5.771091610193253,-11.523072679476627
+[01:18:21] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 0.47421153437244357,6.254379481077194,-12.488183642495187
+[01:18:27] [Worker-Main-3/ERROR]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: mega_showdown:spookyplate'
+[01:18:28] [Server thread/WARN]: Tried to load a block entity for block Block{cobblemon:pc}[on=false,natural=false,waterlogged=false,facing=south,part=top] but failed at location class_2338{x=17563, y=72, z=3894}
+[01:19:45] [Server thread/ERROR]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: mega_showdown:spookyplate'
+[01:19:55] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/201188, l='ServerLevel[world]', x=15752.60, y=63.00, z=1231.49, removed=DISCARDED] wasn't found in section class_4076{x=984, y=3, z=76} (destroying due to DISCARDED)
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 10.490783338236724,1.087666042149067,2.0879470300321827
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 11.358617572015646,1.1714775934815407,2.223894833954546
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 12.227063090651427,1.254765011370182,2.356217322418388
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 13.096285102234106,1.3373843729496002,2.483779512866022
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 13.966057664898472,1.4195092916488647,2.607864141431264
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 14.83645352162057,1.5010598674416542,2.727892995619868
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 15.707395955392712,1.582085445523262,2.8442610659042202
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 16.5789404945117,1.6625064462423325,2.956470902603087
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 17.450945082868202,1.742439642548561,3.065410747896067
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 18.323349311920538,1.821929708123207,3.1714402397162758
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 19.196120756208984,1.9009944275021553,3.274733684559351
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 20.0692532396788,1.9796251133084297,3.3752744297351
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 20.942758061586574,2.057787746191025,3.472907508268918
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 21.816482066238677,2.135659120976925,3.5687998296959904
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 22.69061480217897,2.2129859924316406,3.6613547706069767
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 13.941128521515566,1.286860778927803,1.804983981156738
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 14.815813831373816,1.3634046763181686,1.8928592315596688
+[01:20:07] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 15.69068515737672,1.4396650791168213,1.9791168268873207
+[01:20:09] [Worker-Main-3/ERROR]: Tried to load invalid item: 'Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: mega_showdown:spookyplate'
+[01:20:10] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 10.452596887496838,0.7509442046284676,0.5126768203742813
+[01:20:10] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 11.51909764656375,0.8200534135103226,0.5436022578790016
+[01:20:10] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 12.596650223042161,0.8879359364509583,0.5689384480963326
+[01:20:10] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 13.66374570001426,0.9525599554181099,0.5860455640495275
+[01:20:10] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 14.741861376183806,1.015394926071167,0.5957234924737804
+[01:20:10] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 15.809358169963161,1.075473390519619,0.5986483508772835
+[01:20:10] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 16.887776369234416,1.1334732733666897,0.5931782977274906
+[01:20:10] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 17.95547380095013,1.1883235722780228,0.5796873038707417
+[01:20:10] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 19.033951228046135,1.241069383919239,0.5576941669312419
+[01:20:10] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 20.101534184852426,1.2899250090122223,0.5253259467876887
+[01:20:10] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 21.179685514447556,1.3360298834741116,0.4823980228675282
+[01:20:10] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 12.871099215499271,0.6992539912462234,-0.045817932760201074
+[01:20:10] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 13.948485843053277,0.7387891709804535,-0.10948424723142125
+[01:20:10] [Server thread/WARN]: Garchomp (vehicle of Bruno240707) moved too quickly! 15.014622987684561,0.775042824447155,-0.18162439362026817
+[01:20:30] [Worker-Main-1/WARN]: Ignoring unknown attribute 'neoforge:swim_speed'
+[01:20:47] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/205811, l='ServerLevel[world]', x=16079.44, y=60.37, z=1192.94, removed=DISCARDED] wasn't found in section class_4076{x=1004, y=3, z=74} (destroying due to DISCARDED)
+[01:20:59] [Server thread/WARN]: Entity PokemonEntity['Garchomp'/206762, l='ServerLevel[world]', x=16086.13, y=47.13, z=1209.90, removed=DISCARDED] wasn't found in section class_4076{x=1005, y=2, z=75} (destroying due to DISCARDED)
